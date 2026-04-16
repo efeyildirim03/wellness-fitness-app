@@ -1,5 +1,5 @@
- Wellness & Fitness App
- 
+Wellness & Fitness App
+
 A full-stack cross-platform wellness application built with React Native (Expo), Firebase, and Python Flask backend.
 
 Tech Stack
@@ -7,8 +7,11 @@ React Native (Expo)
 Firebase Authentication + Cloud Firestore
 Python Flask REST API (deployed on Railway)
 USDA FoodData Central API
+
 Project Structure
-dissertation-fitnessapp/ ├── FitnessApp/ ← React Native frontend └── FlaskBackend/ ← Python Flask backend
+dissertation-fitnessapp/
+├── FitnessApp/ ← React Native frontend
+└── FlaskBackend/ ← Python Flask backend
 
 Live Backend
 The Flask backend is deployed and live at: https://wellness-fitness-app-production.up.railway.app
@@ -21,10 +24,13 @@ POST /api/progress — Weekly/monthly progress analysis
 POST /api/motivation — Motivational messages
 GET  /api/food-search — USDA food search
 POST /api/food-nutrients — Detailed nutrient calculation
+
 How to Run
+
 Prerequisites
 Node.js installed
 Expo Go app on your phone
+
 Frontend (React Native)
 cd FitnessApp
 npm install
