@@ -1,7 +1,6 @@
 import { Platform } from "react-native";
 
-export const FLASK_URL =
-  Platform.OS === "web" ? "http://localhost:5000" : "http://192.168.18.63:5000";
+export const FLASK_URL = "https://wellness-fitness-app-production.up.railway.app";  
 
 export const API = {
   recommendations: `${FLASK_URL}/api/recommendations`,
