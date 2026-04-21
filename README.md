@@ -95,4 +95,8 @@ Already pointed to the live Railway backend.
 - Motivational messages based on mood data
 - GDPR compliant (consent + account deletion)
 - Firestore security rules (user data isolation)
+
+   ## 🔐 Test Account
+Email: [testuser@gmail.com]
+Password: [Testuser123?]
   
