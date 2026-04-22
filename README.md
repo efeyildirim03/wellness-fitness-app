@@ -71,7 +71,7 @@ python app.py
 
 Flask runs on:
 
-http://localhost:5000
+https://wellness-fitness-app-production.up.railway.app
 
 ---
 
